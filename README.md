@@ -3,6 +3,7 @@
 This repository contains a Jupyter notebook that demonstrates how to build a primary trading model using dollar bars, the CUSUM filter, and the triple barrier method. 
 
 Notebook: https://github.com/bishalu/SS_finance/blob/main/notebooks/01_primary_model.ipynb
+
 Methods: https://github.com/bishalu/SS_finance/tree/main/utils
 
 In the notebook, we will guide you through various data processing techniques and methods to improve the reliability and accuracy of trading signals. We will cover the following topics:
