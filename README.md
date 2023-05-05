@@ -1,6 +1,8 @@
 # Finance Trading with Dollar Bars, CUSUM, and Triple Barrier Method
 
-This repository contains a Jupyter notebook that demonstrates how to build a primary trading model using dollar bars, the CUSUM filter, and the triple barrier method. The workflow is inspired by the work of Marcos López de Prado, who has contributed significantly to the field of finance trading.
+This repository contains a Jupyter notebook that demonstrates how to build a primary trading model using dollar bars, the CUSUM filter, and the triple barrier method. 
+
+Notebook: https://github.com/bishalu/SS_finance/blob/main/notebooks/01_primary_model.ipynb
 
 In the notebook, we will guide you through various data processing techniques and methods to improve the reliability and accuracy of trading signals. We will cover the following topics:
 
