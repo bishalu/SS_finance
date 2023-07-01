@@ -12,8 +12,3 @@ In the notebook, we will guide you through various data processing techniques an
 2. Creating dollar bars from tick data
 3. Generating trading events using the CUSUM filter
 4. Implementing the triple barrier method
-
-
-Stay tuned for the next installments, where we will explore secondary models and machine learning techniques to further optimize our trading strategy and increase its profitability.
-
-**Credits**: A special thanks to Marcos López de Prado for his invaluable contributions to the finance trading field and for inspiring the workflow presented in this notebook.
