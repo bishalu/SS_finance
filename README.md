@@ -1,4 +1,4 @@
-# Finance Trading with Dollar Bars, CUSUM, and Triple Barrier Method
+# Data Analytics, Visualization and Processing of a Time Series Problem (Finance)
 
 This repository contains a Jupyter notebook that demonstrates how to build a primary trading model using dollar bars, the CUSUM filter, and the triple barrier method. 
 
